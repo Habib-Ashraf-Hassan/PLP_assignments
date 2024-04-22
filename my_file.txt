@@ -1,0 +1,6 @@
+This is line 1
+These are the numbers
+Another line with mixture of text and numbers: #am here 1
+Appending a new line
+New numbers 070700
+Another line appended: #am here again !
